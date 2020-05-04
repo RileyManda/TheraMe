@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589621254375",
+    "firebase_url": "https://therame-b53ca.firebaseio.com",
+    "project_id": "therame-b53ca",
+    "storage_bucket": "therame-b53ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589621254375:android:8738c84d6b39a7aa1d6a42",
+        "android_client_info": {
+          "package_name": "com.smartsapien.therame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589621254375-5m4lsib8381rt28e496cule1cb4l366m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsapien.therame",
+            "certificate_hash": "66f231ecb3dbbdebeab0f85caf6064d5062411ca"
+          }
+        },
+        {
+          "client_id": "589621254375-soqebq51k9ecurvoi63u8g5aenuqs4t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLhTxZTVBgr0mcOigUPCyZsAtRjywFRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589621254375-soqebq51k9ecurvoi63u8g5aenuqs4t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,4 +10,26 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_a_new_acount">Create New Account</string>
+    <string name="dont_have">Dont Have an Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="reset">Reset</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="forgot_pwd">Forgot Password?</string>
+    <string name="action_1">bem</string>
+    <string name="action_2">bem2</string>
+    <string name="content_description_media">dsdsdsds</string>
+    <string name="analytics">Analytics</string>
+    <string name="login">Login</string>
+    <string name="reset_pwd">Reset Password</string>
+    <string name="sign_out">SignOut</string>
+    <string name="iexist">Already Have An Account</string>
+    <string name="signin">SignIn</string>
+    <string name="username">Username</string>
+    <string name="signup">SignUp</string>
+    <string name="return_login">Login</string>
+    <string name="reset_password">Reset Password</string>
 </resources>
