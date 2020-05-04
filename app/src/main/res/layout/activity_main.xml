@@ -20,14 +20,28 @@
     </com.google.android.material.appbar.AppBarLayout>
     <include layout="@layout/content_main" />
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fab"
+        android:id="@+id/fabchat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         app:backgroundTint="@color/colorAccent"
         android:tint="@color/white"
+        app:tint="@color/white"
         app:srcCompat="@drawable/ic_chat_black_24dp"
+        app:fabSize="normal"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/chatclose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:backgroundTint="@color/colorAccent"
+        android:tint="@color/white"
+        app:tint="@color/white"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_headset_mic_black_24dp"
         app:fabSize="normal"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

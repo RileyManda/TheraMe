@@ -32,4 +32,13 @@
     <string name="signup">SignUp</string>
     <string name="return_login">Login</string>
     <string name="reset_password">Reset Password</string>
+    <string name="finish">Finish</string>
+    <string name="section_format">Page %1$d</string>
+    <string name="txt1">Everybody deserves a Friend</string>
+    <string name="txt2">Prolonged Silence will give you Onion Breath</string>
+    <string name="txt3">With Progress Comes Great Rewards</string>
+    <string name="lb1">Chat with TheraMe</string>
+    <string name="lb12">Speak to TheraMe</string>
+    <string name="lb13">Track Your Progress</string>
+    <string name="streak">Streak</string>
 </resources>

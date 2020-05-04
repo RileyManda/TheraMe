@@ -11,6 +11,9 @@
     <color name="colorPrimaryText">#212121</color>
     <color name="colorSecondaryText">#757575</color>
 
+<!--Onboarding Screens-->
+    <color name="cyan">#00BCD4</color>
+
 
 
     <!-- Red -->
