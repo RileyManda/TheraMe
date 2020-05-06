@@ -82,10 +82,7 @@ public class OnBoardActivity extends AppCompatActivity {
         zero = findViewById(R.id.intro_indicator_0);
         one = findViewById(R.id.intro_indicator_1);
         two = findViewById(R.id.intro_indicator_2);
-
         mCoordinator = findViewById(R.id.main_content);
-
-
         indicators = new ImageView[]{zero, one, two};
 
         // Set up the ViewPager with the sections adapter.
@@ -223,8 +220,6 @@ public class OnBoardActivity extends AppCompatActivity {
         int[] bgs = new int[]{R.drawable.ic_chat_bubble_black_24dp,R.drawable.ic_headset_mic_black_24dp,R.drawable.ic_timeline_black_24dp};
         int[] labelsArr = new int[]{R.string.lb1,R.string.lb12,R.string.lb13};//labels array
         int[] contentArr = new int[]{R.string.txt1,R.string.txt2,R.string.txt3};//content array
-
-
         public PlaceholderFragment() {
         }
 

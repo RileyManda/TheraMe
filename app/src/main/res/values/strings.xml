@@ -41,4 +41,10 @@
     <string name="lb12">Speak to TheraMe</string>
     <string name="lb13">Track Your Progress</string>
     <string name="streak">Streak</string>
+    <string name="error_password">Password Too Long</string>
+    <string name="error_username">Username is Invalid</string>
+    <string name="pass_field_empty">Please Enter Password</string>
+    <string name="username_field_empty">You Forgot Your Name</string>
+    <string name="email_error">Invalid Email</string>
+    <string name="pass_error">Password Too Weak</string>
 </resources>

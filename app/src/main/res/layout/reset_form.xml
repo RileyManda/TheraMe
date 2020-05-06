@@ -32,6 +32,7 @@
                     android:drawableLeft="@drawable/ic_email_black_24dp"
                     android:drawablePadding="5dp"
                     android:ems="10"
+                    android:maxLines="1"
                     android:hint="@string/email"
                     android:inputType="textEmailAddress"
                     android:paddingStart="0dp"
@@ -50,8 +51,9 @@
                 android:layout_marginTop="30dp"
                 android:text="@string/reset_password" />
 
-            <TextView
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/backtologin"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"

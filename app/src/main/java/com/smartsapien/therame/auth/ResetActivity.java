@@ -20,8 +20,7 @@ import timber.log.Timber;
 public class ResetActivity extends AppCompatActivity {
 @BindView(R.id.resetbtn)MaterialButton resetBt;
 @BindView(R.id.email) TextInputEditText emailTx;
-@BindView(R.id.backtologin)
-TextView backToLogin;
+@BindView(R.id.backtologin)MaterialButton backToLogin;
 
 @Override
 protected void onCreate(Bundle savedInstanceState) {

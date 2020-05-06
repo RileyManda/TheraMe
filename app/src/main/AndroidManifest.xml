@@ -26,10 +26,13 @@
             android:name=".auth.LoginActivity">
         </activity>
         <activity
-            android:name=".auth.SignUpActivity"/>
-        <activity android:name=".auth.ResetActivity" />
+            android:name=".auth.SignUpActivity"
+            android:parentActivityName=".auth.LoginActivity"/>
+        <activity android:name=".auth.ResetActivity"
+            android:parentActivityName=".auth.LoginActivity"/>
         <activity android:name=".profile.ProfileActivity"
-            android:label="Profile"/>
+            android:label="Profile"
+            android:parentActivityName=".MainActivity"/>
         <activity android:name=".OnBoardActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
     </application>
