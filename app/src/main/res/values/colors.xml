@@ -15,7 +15,9 @@
     <color name="cyan">#00BCD4</color>
 
 
-
+<!--CHAT BOT-->
+    <color name="bg_bubble_self">#62caa6</color>
+    <color name="bg_bubble_watbot">#ecf0f1</color>
     <!-- Red -->
     <color name="red_100">#FFCDD2</color>
     <color name="red_200">#EF9A9A</color>

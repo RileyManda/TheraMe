@@ -1,22 +1,18 @@
 package com.smartsapien.therame;
-
 import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.widget.Toast;
-
 import com.daimajia.androidanimations.library.Techniques;
 import com.viksaa.sssplash.lib.activity.AwesomeSplash;
 import com.viksaa.sssplash.lib.cnst.Flags;
 import com.viksaa.sssplash.lib.model.ConfigSplash;
-
 import de.hdodenhof.circleimageview.CircleImageView;
 
 public class SplashActivity extends AwesomeSplash {
-    private static int SPLASH_SCREEN_TIME_OUT=2000;
 
+    private static int SPLASH_SCREEN_TIME_OUT = 2000;
     CircleImageView mylogo;
-
 //    public void setMylogo(CircleImageView mylogo) {
 //        mylogo.setImageResource(R.drawable.therame);
 //        this.mylogo = mylogo;

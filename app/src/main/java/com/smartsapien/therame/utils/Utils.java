@@ -4,9 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
-
 import androidx.core.graphics.drawable.DrawableCompat;
-
 import com.smartsapien.therame.R;
 
 public class Utils {

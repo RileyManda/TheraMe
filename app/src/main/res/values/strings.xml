@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">TheraMe</string>
     <string name="action_settings">Settings</string>
+
+
+<!--    CHATBOT -->
+    <string name="what_s_on_your_mind">Whats on your mind</string>
+    <string name="menu_refresh">Refresh</string>
+
+
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
